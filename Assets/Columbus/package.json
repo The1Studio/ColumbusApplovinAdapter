@@ -1,0 +1,13 @@
+{
+  "name": "com.theone.columbus_sdk",
+  "displayName": "The One Custom Columbus",
+  "description": "Columbus Unity plugin",
+  "version": "12.1.0.2",
+  "unity": "6000.0",
+  "author": {
+    "name": "The One Game Studio",
+    "email": "tuha@the1studio.org",
+    "url": "https://theonegamestudio.com/"
+  },
+  "license": "MIT"
+}
