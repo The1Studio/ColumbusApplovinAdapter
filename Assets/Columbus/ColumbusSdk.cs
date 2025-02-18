@@ -52,7 +52,7 @@ public class ColumbusSdk
 
 	private static AndroidJavaClass GetAndroidSdk()
 	{
-#if UNITY_ANDROID
+#if UNITY_ANDROID && !UNITY_EDITOR
 		if (_androidSdk == null)
 		{
 			_androidSdk = new AndroidJavaClass(

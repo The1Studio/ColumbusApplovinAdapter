@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <dependencies>
     <androidPackages>
-        <androidPackage spec="com.mi.dev.mint:columbus-max-adapter:12.1.0.2" >
+        <androidPackage spec="com.mi.dev.mint:columbus-max-adapter:13.0.1.2" >
             <repositories>
                 <repository>https://repo.maven.apache.org/maven2/</repository>
             </repositories>
